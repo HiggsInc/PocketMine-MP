@@ -27,7 +27,7 @@ use pocketmine\command\CommandSender;
 use pocketmine\event\TranslationContainer;
 use pocketmine\Player;
 
-class TransferserverCommand extends VanillaCommand{
+class TransferServerCommand extends VanillaCommand{
 
 	public function __construct($name){
 		parent::__construct(
